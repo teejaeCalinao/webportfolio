@@ -1,0 +1,80 @@
+.orchid-bg{
+	background-color: #F79AD3;
+}
+
+.thistle-bg {
+	background-color: #D7C0D0;
+}
+
+
+#navbar {
+  background-color: #333;
+  position: fixed;
+  top: -90px;
+  width: 100%;
+  display: block;
+  transition: top 0.3s;
+}
+
+.fab {
+	font-size: 3vh;
+	
+}
+
+.landingLogos {
+	height: 5vh;
+	width: 5vh;
+	box-shadow: 5px 5px 5px -3px rgba(0,0,0,0.75);
+	-webkit-box-shadow: 5px 5px 5px -3px rgba(0,0,0,0.75);
+	-moz-box-shadow: 5px 5px 5px -3px rgba(0,0,0,0.75);
+}
+#landing{
+	background-image: url(https://i.pinimg.com/originals/47/68/47/476847c0277afe0398b2667abba04c4a.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+
+#landing2{
+	height: 100vh;
+	background-image: 
+
+	linear-gradient(
+
+		rgba(0, 0, 0, 0.10),
+		rgba(0, 0, 0, 0.65)
+		),
+
+	url(https://i.pinimg.com/originals/47/68/47/476847c0277afe0398b2667abba04c4a.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#about{
+	background-image: url(https://i.pinimg.com/originals/57/26/c5/5726c582d2c0e320eab5145f10e8ad62.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+
+#projects{
+	background-image: url(https://i.pinimg.com/originals/38/15/01/38150176a30fe3020fd2575dca9e8d48.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+
+#contacts{
+	background-image: url(https://i.pinimg.com/originals/c5/c4/c1/c5c4c1101fc6e50bc5110bbfaaa73511.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+
+
+
